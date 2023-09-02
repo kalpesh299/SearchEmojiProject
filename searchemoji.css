@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    width:100vw;
+}
+
+.main{
+    width:100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    /* border: 2px solid green; */
+}
+.input_field{
+    margin-top: 5vh;
+  
+}
+.input_field input{
+height:4vh;
+width:20vw;
+}
+.input_field button{
+    height:4vh;
+}
